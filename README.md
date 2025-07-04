@@ -25,16 +25,4 @@ A sleek and responsive clone of the Spotify web player. This project mimics Spot
 | Behavior  | JavaScript (ES6)    |
 | Assets    | Local `.mp3` files or links |
 
----
 
-## 📁 Folder Structure
-
-spotifyclone/
-├── index.html
-├── style.css
-├── script.js
-├── songs/
-│ └── (MP3 audio files)
-├── assets/
-│ └── images/
-│ └── (Album art, icons, logos)
